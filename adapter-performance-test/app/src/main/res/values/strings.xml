@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adapter Performance Test</string>
+    <string name="text_button_cursor_adapter_test">Cursor Adapter Test</string>
+    <string name="text_button_list_adapter_test">List Adapter test</string>
+</resources>
