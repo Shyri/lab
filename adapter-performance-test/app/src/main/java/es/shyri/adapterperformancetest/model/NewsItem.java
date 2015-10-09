@@ -3,7 +3,7 @@ package es.shyri.adapterperformancetest.model;
 /**
  * Created by Shyri on 07/10/2015.
  */
-public class NewsEntry {
+public class NewsItem {
     private long id;
     private String title;
     private String subitle;
